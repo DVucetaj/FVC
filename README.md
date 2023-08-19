@@ -1,2 +1,2 @@
 # FVC
-A flask-vue CRUD tutorial
+A flask-vue CRUD project for a single web page.
